@@ -1,4 +1,4 @@
-# Petits projets réalisés pendant les cours pour Mastère DATA & IA à l'HETIC
+# Petits projets réalisés pendant les cours du Mastère DATA & IA de l'HETIC
 
 ### Étudent :   
 - Zhifeng LIANG
